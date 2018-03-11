@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1520767476 source:c:\users\bapti\desktop\a\main.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1520081695 c:\users\bapti\desktop\a\constante.h
+
+1520098485 source:c:\users\bapti\desktop\a\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"constante.h"
+
+1520098438 source:c:\users\bapti\desktop\a\chargersauvegrder.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"constante.h"
+
